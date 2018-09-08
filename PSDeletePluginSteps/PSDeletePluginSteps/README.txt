@@ -1,10 +1,7 @@
-# PSMGCRM
-Dynamics 365 PowerShell Commandlets
-
-Build this project. Copy the contents of the bin folder to a location.
+﻿Build this project. Copy the contents of the bin folder to a location.
 For the sake of example we will copy to D:\TOOLS\POWERSHELL\PSMGCRM
 
-Below are samples script to register the module and execute the steps.
+Below are sample scripts to register the module and execute the steps.
 
 ##START SCRIPT TO REGISTER MODULE##
 #Change path as needed
